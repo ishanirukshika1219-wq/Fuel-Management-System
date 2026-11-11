@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vb project\\FuelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formmainlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formmainlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formmainlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formmainlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formelogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formclogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formclogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FuelManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\reportcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\reportcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\formclogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formclogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formsales.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\employeecrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\employeecrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\fuelcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\fuelcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\clientcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\clientcrud.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formbillreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formbillreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formbillreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formbillreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|C:\\vb project\\FuelManagementSystem\\fuelmanagementsystem\\formreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|solutionrelative:fuelmanagementsystem\\formreports.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643E87B-1ADA-4168-B944-A78736A4DB26}|FuelManagementSystem\\FuelManagementSystem.vbproj|c:\\vb project\\fuelmanagementsystem\\fuelmanagementsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 310,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDashboard.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormDashboard.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormDashboard.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormDashboard.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormDashboard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T17:31:42.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormELogin.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormELogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormELogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormELogin.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormELogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T12:27:35.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCLogin.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormCLogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormCLogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormCLogin.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormCLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T09:12:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMainLogin.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormMainLogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormMainLogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormMainLogin.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormMainLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T12:25:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormDashboard.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormDashboard.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormDashboard.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T17:24:07.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMainLogin.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormMainLogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormMainLogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormMainLogin.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormMainLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T12:24:06.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormELogin.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormELogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormELogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormELogin.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormELogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T12:37:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuelManagementSystem",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FuelManagementSystem.vbproj",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FuelManagementSystem.vbproj",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FuelManagementSystem.vbproj",
+              "RelativeToolTip": "FuelManagementSystem\\FuelManagementSystem.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T15:06:57.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSales.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormSales.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormSales.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormSales.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormSales.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T11:21:16.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportCRUD.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\ReportCRUD.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\ReportCRUD.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\ReportCRUD.vb",
+              "RelativeToolTip": "FuelManagementSystem\\ReportCRUD.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-13T13:52:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCLogin.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormCLogin.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormCLogin.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormCLogin.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormCLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T09:12:33.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormSales.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormSales.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormSales.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormSales.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormSales.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvygAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T11:26:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeCRUD.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\EmployeeCRUD.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\EmployeeCRUD.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\EmployeeCRUD.vb",
+              "RelativeToolTip": "FuelManagementSystem\\EmployeeCRUD.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-17T13:08:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FuelCRUD.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FuelCRUD.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FuelCRUD.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FuelCRUD.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FuelCRUD.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-13T13:50:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientCRUD.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\ClientCRUD.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\ClientCRUD.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\ClientCRUD.vb",
+              "RelativeToolTip": "FuelManagementSystem\\ClientCRUD.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T16:22:05.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBConnection.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\DBConnection.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\DBConnection.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\DBConnection.vb",
+              "RelativeToolTip": "FuelManagementSystem\\DBConnection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T14:03:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormStock.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormStock.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormStock.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormStock.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormStock.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T17:35:24.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormStock.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormStock.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormStock.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormStock.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormStock.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T12:27:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormBillReceipt.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormBillReceipt.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormBillReceipt.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormBillReceipt.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormBillReceipt.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T15:58:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBillReceipt.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormBillReceipt.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormBillReceipt.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormBillReceipt.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormBillReceipt.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T16:10:47.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormReports.vb [Design]",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormReports.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormReports.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormReports.vb [Design]",
+              "RelativeToolTip": "FuelManagementSystem\\FormReports.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T17:36:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormReports.vb",
+              "DocumentMoniker": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormReports.vb",
+              "RelativeDocumentMoniker": "FuelManagementSystem\\FormReports.vb",
+              "ToolTip": "C:\\vb project\\FuelManagementSystem\\FuelManagementSystem\\FormReports.vb",
+              "RelativeToolTip": "FuelManagementSystem\\FormReports.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-16T14:35:03.599Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
